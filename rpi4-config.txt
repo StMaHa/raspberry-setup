@@ -1,0 +1,5 @@
+over_voltage=6
+arm_freq=2000
+
+dtoverlay=gpio-fan,gpiopin=18,temp=80000
+dtoverlay=dwc2,dr_mode=host
