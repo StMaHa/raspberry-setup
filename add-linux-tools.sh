@@ -10,4 +10,12 @@ sudo apt -y install \
     rpi-imager \
     libreoffice \
     libreoffice-l10n-de \
-    libreoffice-help-de
+    libreoffice-help-de \
+    ntp \
+    htop \
+    thonny \
+    gparted \
+    gddrescue \
+    vlc \
+    geany \
+    xrdp
