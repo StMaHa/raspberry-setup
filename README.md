@@ -1,7 +1,6 @@
 # raspberry-setup
-
-## Wiki for more information
-[HowTo](https://github.com/StMaHa/raspberry-setup/wiki)
+Scripts to setup Raspberry Pi (or other linux systems).  
+Things which will be done manually can be found [here](https://github.com/StMaHa/raspberry-setup/wiki).
 
 # LICENSE
 
