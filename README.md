@@ -1,5 +1,5 @@
 # raspberry-setup
-Scripts to setup Raspberry Pi (or other linux systems).  
+Scripts to setup Raspberry Pi (or other debian based linux systems).  
 Things which will be done manually can be found [here](https://github.com/StMaHa/raspberry-setup/wiki).
 
 # LICENSE
