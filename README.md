@@ -5,7 +5,7 @@
 
 # LICENSE
 
-See the [LICENSE](LICENSE.md) file for license rights and limitations.
+See the [LICENSE](LICENSE) file for license rights and limitations.
 
 ----
 <sup>(c) Raspberry Pi is a trademark of the Raspberry Pi Foundation.</sup>
