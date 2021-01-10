@@ -18,4 +18,5 @@ sudo apt -y install \
     gddrescue \
     vlc \
     geany \
-    xrdp
+    xrdp \
+    meld
